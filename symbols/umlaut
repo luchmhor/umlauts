@@ -1,0 +1,8 @@
+partial
+xkb_symbols "uml" {
+    key <AC01>  { [  NoSymbol,   NoSymbol,   adiaeresis,  Adiaeresis ]      };
+    key <AD09>  { [  NoSymbol,   NoSymbol,   odiaeresis,  Odiaeresis ]      };
+    key <AD07>  { [  NoSymbol,   NoSymbol,   udiaeresis,  Udiaeresis ]      };
+    key <AB03>  { [  NoSymbol,  NoSymbol,    cent,      NoSymbol ]      };
+    key <AC02>  { [  NoSymbol,  NoSymbol,    ssharp,    ssharp  ]      };
+};
