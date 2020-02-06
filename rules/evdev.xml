@@ -1,6 +1,5 @@
 # best insert in the Currencysign block
-</configItem>
-	<option>
+      <option>
         <configItem>
           <name>umlaut:uml</name>
           <description>Umlauts</description>
